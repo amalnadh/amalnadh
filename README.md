@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amalnadh
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...frontend Web Development and React JS library
+- 🌱 I’m a python/django developer
 - 💞️ I’m looking to collaborate on ... Web Development 
 - 📫 How to reach me ... mail- amalnadhtm@gmail.com
 
